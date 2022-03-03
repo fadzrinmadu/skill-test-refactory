@@ -19,3 +19,9 @@ Berikut cara menjalankan aplikasi :
 2. Jalankan aplikasi backend dengan perintah berikut 'npm run start:dev'
 3. Jalankan aplikasi frontend dengan perintah berikut 'npm start'
 4. Buka browser melalui URI berikut : http://localhost:3000
+
+---
+
+## Screenshot Project
+
+![alt text](./_assets/frontend-ss.png)
