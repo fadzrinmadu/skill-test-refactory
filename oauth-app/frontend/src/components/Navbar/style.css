@@ -1,0 +1,14 @@
+.navbar {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10%;
+  border-bottom: 4px solid #FCB03B;
+  margin-bottom: 80px;
+}
+
+.nav-list {
+  display: flex;
+  list-style: none;
+}

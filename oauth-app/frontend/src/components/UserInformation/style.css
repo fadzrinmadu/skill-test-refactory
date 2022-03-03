@@ -1,0 +1,26 @@
+.card {
+  background-color: #f3f3f3;
+  border-radius: 4px;
+  padding: 28px 20px 30px;
+}
+
+.card .heading {
+  margin-bottom: 20px;
+}
+
+.user-information {
+  list-style: none;
+}
+
+.user-information .user-information-item:nth-of-type(1) {
+  margin-bottom: 16px;
+}
+
+.user-information .user-information-label {
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.user-information .user-information-text {
+  color: #3c3c3c;
+}
